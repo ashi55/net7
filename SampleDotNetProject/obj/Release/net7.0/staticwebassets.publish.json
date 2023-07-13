@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Q9v63d83M83o6Hv7cz0ZfYjYUpUDdu5kPQG4vRLqu1w=",
+  "Source": "SampleDotNetProject",
+  "BasePath": "_content/SampleDotNetProject",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

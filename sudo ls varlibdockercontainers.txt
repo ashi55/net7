@@ -1,0 +1,18 @@
+sudo ls /var/lib/docker/containers
+
+/etc/letsencrypt/live/kcauth.codezync.net:/var
+
+
+docker run -v /etc/letsencrypt/live/kcauth.codezync.net:/var -d IMAGE_ID "update-ca-certificates"\
+
+
+Create a launch template
+
+Microsoft Windows Server 2019 Base
+Free tier eligible
+ami-08bffdc6eac0353ac (64-bit (x86))
+Virtualization: hvm
+ENA enabled: true
+Root device type: ebs
+Description
+
